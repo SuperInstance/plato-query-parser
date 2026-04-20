@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/plato_query_parser/__init__.py
+src/plato_query_parser/parser.py
+src/plato_query_parser.egg-info/PKG-INFO
+src/plato_query_parser.egg-info/SOURCES.txt
+src/plato_query_parser.egg-info/dependency_links.txt
+src/plato_query_parser.egg-info/top_level.txt
